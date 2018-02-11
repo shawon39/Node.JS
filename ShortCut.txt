@@ -1,0 +1,8 @@
+
+ cd C:\'Full Stack Engineer'\Node.JS\notes-node
+
+ node app.js list
+
+ node app.js remove --title="secrets 2"
+
+node app.js add --title=secret --body="This is my secret"
